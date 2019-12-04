@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>magichua.lib</groupId>
   <artifactId>updatekotlin</artifactId>
-  <version>1.3.4</version>
+  <version>1.4.5</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
@@ -35,12 +35,6 @@
       <groupId>com.facebook.android</groupId>
       <artifactId>facebook-android-sdk</artifactId>
       <version>4.42.0</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.google.android.gms</groupId>
-      <artifactId>play-services-ads</artifactId>
-      <version>15.0.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
